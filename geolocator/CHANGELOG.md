@@ -1,3 +1,7 @@
+## 6.1.9
+
+- Added a functionality to receive NMEA messages.
+
 ## 6.1.8
 
 - Deprecate the `timeInterval` parameter of the `getPositionStream` method in favor of the more semantic `intervalDuration` parameter.
